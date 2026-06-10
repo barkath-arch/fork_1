@@ -47,7 +47,8 @@ export function Login() {
         </div>
         <div className="dim mt-6" style={{ fontSize: 11.5, textAlign: "center", lineHeight: 1.7 }}>
           Demo buyer: <code>rohit@mergent.demo</code> / <code>Demo!Pass123</code><br />
-          Demo builder: <code>aman@mergent.demo</code> / <code>Demo!Pass123</code>
+          Demo builder: <code>aman@mergent.demo</code> / <code>Demo!Pass123</code><br />
+          Demo admin: <code>admin@mergent.demo</code> / <code>Demo!Pass123</code>
         </div>
       </form>
     </div>
